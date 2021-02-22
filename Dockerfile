@@ -1,3 +1,5 @@
+#!BuildTag: my_container
+
 FROM opensuse/tumbleweed
 LABEL maintainer="Bruno Leon <bruno.leon@suse.com>"
 
