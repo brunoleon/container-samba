@@ -1,4 +1,4 @@
-FROM registry.opensuse.org/opensuse/tumbleweed
+FROM opensuse/tumbleweed
 LABEL maintainer="Bruno Leon <bruno.leon@suse.com>"
 
 RUN zypper --non-interactive install tini shadow samba
